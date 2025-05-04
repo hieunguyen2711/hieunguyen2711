@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I'm Hieu Nguyen from Vietnam<br><br>- 🔭 I’m working as a DevOps Engineer<br>- 📚 I'm currently learning Backend Development<br>- ⚡ In my free time I like to do LeetCode and building personal projects</p>
+<p align="left">I'm Hieu Nguyen from Vietnam<br><br>- 🔭 I’m a student from Augustana College<br>- 📚 I'm currently learning Backend Development<br>- ⚡ In my free time I like to do LeetCode and building personal projects</p>
 
 ###
 
